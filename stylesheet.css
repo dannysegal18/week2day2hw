@@ -176,3 +176,37 @@ td:first-child {
     font-weight: bold;
     background: #bde1ff;
 }
+
+/* Text Box */
+div legend {
+    color: #4977D1;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+label {
+    display: block;
+    font-weight: 500;
+    margin-top: 15px 0 0 0;
+}
+input {
+    width: 500px;
+}
+
+.button [type="submit"] {
+        background-color: #4977D1;
+        color: #fff;
+        font-size: 1em;
+        border: none;
+        width: 100px;
+        height: 25px;
+}
+input[type="radio"] {
+    width: 15px;
+    text-align: right;
+}
+textarea {
+    width: 500px;
+    height: 150px;
+}
+
