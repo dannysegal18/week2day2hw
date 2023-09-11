@@ -6,7 +6,7 @@ header {
 }
 #home header {
     background: no-repeat lightgrey url(images/cliff_ocean.jpg);
-    background-size: 1500px;
+    background-size: 100%;
 }
 #activities header {
     background: no-repeat lightgrey url(images/runfly.jpg);
