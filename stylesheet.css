@@ -178,7 +178,10 @@ td:first-child {
 }
 
 /* Text Box */
-div legend {
+fieldset {
+    border: #9ed034 2px solid;
+}
+legend {
     color: #4977D1;
     font-size: 1em;
     text-transform: uppercase;
@@ -200,6 +203,7 @@ input {
         border: none;
         width: 100px;
         height: 25px;
+        margin-left: 400px;
 }
 input[type="radio"] {
     width: 15px;
